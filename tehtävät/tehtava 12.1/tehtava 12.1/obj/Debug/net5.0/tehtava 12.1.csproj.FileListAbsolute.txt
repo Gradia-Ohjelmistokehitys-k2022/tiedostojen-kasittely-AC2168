@@ -1,0 +1,16 @@
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\bin\Debug\net5.0\tehtava 12.1.exe
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\bin\Debug\net5.0\tehtava 12.1.deps.json
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\bin\Debug\net5.0\tehtava 12.1.runtimeconfig.json
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\bin\Debug\net5.0\tehtava 12.1.runtimeconfig.dev.json
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\bin\Debug\net5.0\tehtava 12.1.dll
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\bin\Debug\net5.0\ref\tehtava 12.1.dll
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\bin\Debug\net5.0\tehtava 12.1.pdb
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.csproj.AssemblyReference.cache
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.AssemblyInfoInputs.cache
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.AssemblyInfo.cs
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.csproj.CoreCompileInputs.cache
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.dll
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\ref\tehtava 12.1.dll
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.pdb
+C:\tiedostojen käsittely\tehtävät\tehtava 12.1\tehtava 12.1\obj\Debug\net5.0\tehtava 12.1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQ8IYRU2xxOOklQylkRkv/T6gPMSH3Xdydvh5nTmftIpM4CnUF0B5cvHAYrDOWZLYPkt8sis8D7TOKzDMo8B/Q==",
+  "success": true,
+  "projectFilePath": "C:\\tiedostojen käsittely\\tehtävät\\tehtava 12.1\\tehtava 12.1\\tehtava 12.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr265745\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
